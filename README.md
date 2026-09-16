@@ -29,5 +29,5 @@ Azure SQL Database · Power BI Desktop
 (raw file not included in repo per Kaggle's terms; download from the link above)
 
 ## Dashboard Preview
-![Dashboard overview](screenshots/dashboard_overview.png)
+![Dashboard overview]("C:\Users\ADMIN\OneDrive\Pictures\Screenshots\bank risk project png .png")
 ![Risk by age and debt ratio](screenshots/risk_segments.png)
