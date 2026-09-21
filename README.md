@@ -28,5 +28,5 @@ Azure SQL Database · Power BI Desktop
 (raw file not included in repo per Kaggle's terms; download from the link above)
 
 ## Dashboard Preview
-![Dashboard overview] bank transactions risk analytics.png
+![Dashboard overview](bank transactions risk analytics.png)
 ![Risk by age and debt ratio](screenshots/risk_segments.png)
