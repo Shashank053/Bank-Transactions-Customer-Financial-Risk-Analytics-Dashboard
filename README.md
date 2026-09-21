@@ -5,11 +5,7 @@
 **An end-to-end pipeline that scores ~150,000 bank customers for credit/delinquency risk**
 **and surfaces the results in an interactive Power BI dashboard.**
 
-![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Azure SQL](https://img.shields.io/badge/Azure-SQL_Database-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat)
+
 
 </div>
 
