@@ -19,12 +19,12 @@ Python (pandas, scikit-learn, SQLAlchemy) · Azure SQL Database · Power BI Desk
 ## Files
 - `Bank-transactions-risk-analytics_.ipynb` — full notebook: data cleaning, feature engineering, and
   risk-scoring model
-- `bank transactions risk analytics dashboard.pbix` — Power BI dashboard file
-- `customer_risk_scored.csv` — cleaned, scored output dataset
-- `dashboard.png` — dashboard preview (below)
+- `Bank transactions risk analytics dashboard.pbix` — Power BI dashboard file
+- `Customer_risk_scored.csv` — cleaned, scored output dataset
+- `Dashboard.png` — dashboard preview (below)
 
 ## Dataset
 "Give Me Some Credit" — Kaggle: https://www.kaggle.com/datasets/lamine16/give-me-some-credit
 
 ## Dashboard Preview
-![Dashboard overview](dashboard.png)
+![Dashboard overview](Dashboard.png)
