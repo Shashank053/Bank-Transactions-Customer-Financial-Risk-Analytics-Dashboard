@@ -4,7 +4,7 @@ End-to-end analytics project that scores ~150,000 bank customers for credit/deli
 risk and surfaces the results in an interactive Power BI dashboard.
 
 ## Pipeline
-Kaggle dataset → Excel (data profiling) → Python/scikit-learn (cleaning, feature
+Kaggle dataset → Python/scikit-learn (cleaning, feature
 engineering, logistic regression risk scoring) → Azure Blob Storage + Azure SQL Database
 → Power BI dashboard
 
@@ -19,7 +19,6 @@ Azure SQL Database · Power BI Desktop
   "customers with 2+ past-due incidents account for X% of high-risk tier"]
 
 ## Repo Structure
-- `/excel` — data profiling workbook and data dictionary
 - `/notebooks` — Python cleaning, feature engineering, and risk-scoring notebook
 - `/powerbi` — Power BI .pbix dashboard file
 - `/screenshots` — dashboard preview images
