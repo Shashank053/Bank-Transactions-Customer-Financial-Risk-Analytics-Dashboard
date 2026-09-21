@@ -17,9 +17,9 @@ Python (pandas, scikit-learn, SQLAlchemy) · Azure SQL Database · Power BI Desk
   'Very High' debt-ratio bucket make up the largest share of the High Risk tier"]
 
 ## Files
-- `Bank-transactions-risk-analytics_.ipynb` — full notebook: data cleaning, feature engineering, and
+- `Bank Transactions & Customer Financial Risk Analytics Dashboard.ipynb` — full notebook: data cleaning, feature engineering, and
   risk-scoring model
-- `Bank transactions risk analytics dashboard.pbix` — Power BI dashboard file
+- `Bank Transactions & Customer Financial Risk Analytics Dashboard.pbix` — Power BI dashboard file
 - `Customer_risk_scored.csv` — cleaned, scored output dataset
 - `Dashboard.png` — dashboard preview (below)
 
