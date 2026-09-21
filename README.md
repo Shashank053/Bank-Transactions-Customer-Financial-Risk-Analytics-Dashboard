@@ -21,10 +21,10 @@ Python (pandas, scikit-learn, SQLAlchemy) · Azure SQL Database · Power BI Desk
   risk-scoring model
 - `bank transactions risk analytics dashboard.pbix` — Power BI dashboard file
 - `customer_risk_scored.csv` — cleaned, scored output dataset
-- `bank transactions risk analytics.png` — dashboard preview (below)
+- `dashboard.png` — dashboard preview (below)
 
 ## Dataset
 "Give Me Some Credit" — Kaggle: https://www.kaggle.com/datasets/lamine16/give-me-some-credit
 
 ## Dashboard Preview
-![Bank Transactions Risk Analytics](bank transactions risk analytics.png)
+![Dashboard overview](dashboard.png)
