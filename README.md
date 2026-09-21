@@ -22,7 +22,7 @@ segmentation is explorable by anyone, not just someone reading raw numbers in a 
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard overview](dashboard.png)
+![Dashboard overview](Dashboard.png)
 
 ## 🔁 Pipeline
 
