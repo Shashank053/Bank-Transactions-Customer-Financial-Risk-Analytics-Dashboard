@@ -19,7 +19,7 @@ Python (pandas, scikit-learn, SQLAlchemy) · Azure SQL Database · Power BI Desk
 ## Files
 - `Bank-transactions-risk-analytics_.ipynb` — full notebook: data cleaning, feature engineering, and
   risk-scoring model
-- `bank transactions risk analytics.pbix` — Power BI dashboard file
+- `bank transactions risk analytics dashboard.pbix` — Power BI dashboard file
 - `customer_risk_scored.csv` — cleaned, scored output dataset
 - `bank transactions risk analytics.png` — dashboard preview (below)
 
