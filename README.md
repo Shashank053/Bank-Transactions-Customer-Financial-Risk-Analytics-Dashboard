@@ -24,7 +24,7 @@ Python (pandas, scikit-learn, SQLAlchemy) · Azure SQL Database · Power BI Desk
 - `dashboard_overview.png` — dashboard preview (below)
 
 ## Dataset
-"Give Me Some Credit" — Kaggle: https://www.kaggle.com/c/GiveMeSomeCredit
+"Give Me Some Credit" — Kaggle: https://www.kaggle.com/datasets/lamine16/give-me-some-credit
 
 ## Dashboard Preview
 ![Dashboard overview](dashboard_overview.png)
