@@ -9,7 +9,7 @@ engineering, logistic regression risk scoring) → Azure Blob Storage + Azure SQ
 → Power BI dashboard
 
 ## Tools
-Python (pandas, scikit-learn, SQLAlchemy) · Microsoft Excel · Azure Blob Storage ·
+Python (pandas, scikit-learn, SQLAlchemy)  · Azure Blob Storage ·
 Azure SQL Database · Power BI Desktop
 
 ## Key Results
