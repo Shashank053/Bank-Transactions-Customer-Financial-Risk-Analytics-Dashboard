@@ -27,4 +27,4 @@ Python (pandas, scikit-learn, SQLAlchemy) · Azure SQL Database · Power BI Desk
 "Give Me Some Credit" — Kaggle: https://www.kaggle.com/datasets/lamine16/give-me-some-credit
 
 ## Dashboard Preview
-![Dashboard overview](dashboard_overview.png)
+![Bank Transactions Risk Analytics](bank transactions risk analytics.png)
