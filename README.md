@@ -17,11 +17,11 @@ Python (pandas, scikit-learn, SQLAlchemy) · Azure SQL Database · Power BI Desk
   'Very High' debt-ratio bucket make up the largest share of the High Risk tier"]
 
 ## Files
-- `Bank_risk_project_.ipynb` — full notebook: data cleaning, feature engineering, and
+- `Bank-transactions-risk-analytics_.ipynb` — full notebook: data cleaning, feature engineering, and
   risk-scoring model
-- `bank risk analysis project .pbix` — Power BI dashboard file
+- `bank transactions risk analytics.pbix` — Power BI dashboard file
 - `customer_risk_scored.csv` — cleaned, scored output dataset
-- `dashboard_overview.png` — dashboard preview (below)
+- `bank transactions risk analytics.png` — dashboard preview (below)
 
 ## Dataset
 "Give Me Some Credit" — Kaggle: https://www.kaggle.com/datasets/lamine16/give-me-some-credit
