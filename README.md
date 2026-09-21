@@ -25,7 +25,7 @@ Azure SQL Database · Power BI Desktop
 - `/screenshots` — dashboard preview images
 
 ## Dataset
-"Give Me Some Credit" — Kaggle: https://www.kaggle.com/c/GiveMeSomeCredit
+"Give Me Some Credit" — Kaggle: https://www.kaggle.com/datasets/lamine16/give-me-some-credit
 (raw file not included in repo per Kaggle's terms; download from the link above)
 
 ## Dashboard Preview
