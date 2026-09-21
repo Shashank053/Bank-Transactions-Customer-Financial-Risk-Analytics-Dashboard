@@ -70,8 +70,8 @@ Power BI Dashboard
 |---|---|
 | `*.ipynb` | Full notebook — data cleaning, feature engineering, model training, risk scoring |
 | `*.pbix` | Power BI dashboard file |
-| `customer_risk_scored.csv` | Cleaned, scored output dataset |
-| `dashboard.png` | Dashboard screenshot (shown above) |
+| `Customer_risk_scored.csv` | Cleaned, scored output dataset |
+| `Dashboard.png` | Dashboard screenshot (shown above) |
 | `.gitignore` | Excludes credentials and raw data from version control |
 
 > **Note:** the raw dataset is not included in this repo — download it directly from
